@@ -1,0 +1,8 @@
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\bin\Debug\BASIC PROGRAM.exe.config
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\bin\Debug\BASIC PROGRAM.exe
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\bin\Debug\BASIC PROGRAM.pdb
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\obj\Debug\BASIC PROGRAM.csproj.AssemblyReference.cache
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\obj\Debug\BASIC PROGRAM.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\obj\Debug\BASIC PROGRAM.csproj.CoreCompileInputs.cache
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\obj\Debug\BASIC PROGRAM.exe
+D:\c#\day 2\BASIC PROGRAM\BASIC PROGRAM\obj\Debug\BASIC PROGRAM.pdb
