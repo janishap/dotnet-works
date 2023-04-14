@@ -1,0 +1,8 @@
+D:\c#\day4\string prgrm 1\string prgrm 1\bin\Debug\string prgrm 1.exe.config
+D:\c#\day4\string prgrm 1\string prgrm 1\bin\Debug\string prgrm 1.exe
+D:\c#\day4\string prgrm 1\string prgrm 1\bin\Debug\string prgrm 1.pdb
+D:\c#\day4\string prgrm 1\string prgrm 1\obj\Debug\string prgrm 1.csproj.AssemblyReference.cache
+D:\c#\day4\string prgrm 1\string prgrm 1\obj\Debug\string prgrm 1.csproj.SuggestedBindingRedirects.cache
+D:\c#\day4\string prgrm 1\string prgrm 1\obj\Debug\string prgrm 1.csproj.CoreCompileInputs.cache
+D:\c#\day4\string prgrm 1\string prgrm 1\obj\Debug\string prgrm 1.exe
+D:\c#\day4\string prgrm 1\string prgrm 1\obj\Debug\string prgrm 1.pdb
