@@ -1,0 +1,8 @@
+D:\c#\day 7\debuuginh demo\debuuginh demo\obj\Debug\debuuginh demo.csproj.AssemblyReference.cache
+D:\c#\day 7\debuuginh demo\debuuginh demo\obj\Debug\debuuginh demo.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 7\debuuginh demo\debuuginh demo\obj\Debug\debuuginh demo.csproj.CoreCompileInputs.cache
+D:\c#\day 7\debuuginh demo\debuuginh demo\bin\Debug\debuuginh demo.exe.config
+D:\c#\day 7\debuuginh demo\debuuginh demo\bin\Debug\debuuginh demo.exe
+D:\c#\day 7\debuuginh demo\debuuginh demo\bin\Debug\debuuginh demo.pdb
+D:\c#\day 7\debuuginh demo\debuuginh demo\obj\Debug\debuuginh demo.exe
+D:\c#\day 7\debuuginh demo\debuuginh demo\obj\Debug\debuuginh demo.pdb

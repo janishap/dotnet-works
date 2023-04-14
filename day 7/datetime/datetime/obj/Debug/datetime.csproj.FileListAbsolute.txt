@@ -1,0 +1,8 @@
+D:\c#\day 7\datetime\datetime\bin\Debug\datetime.exe.config
+D:\c#\day 7\datetime\datetime\bin\Debug\datetime.exe
+D:\c#\day 7\datetime\datetime\bin\Debug\datetime.pdb
+D:\c#\day 7\datetime\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+D:\c#\day 7\datetime\datetime\obj\Debug\datetime.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 7\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+D:\c#\day 7\datetime\datetime\obj\Debug\datetime.exe
+D:\c#\day 7\datetime\datetime\obj\Debug\datetime.pdb
