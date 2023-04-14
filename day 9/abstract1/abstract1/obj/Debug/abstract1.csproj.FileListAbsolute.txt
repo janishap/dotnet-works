@@ -1,0 +1,8 @@
+D:\c#\day 9\abstract1\abstract1\bin\Debug\abstract1.exe.config
+D:\c#\day 9\abstract1\abstract1\bin\Debug\abstract1.exe
+D:\c#\day 9\abstract1\abstract1\bin\Debug\abstract1.pdb
+D:\c#\day 9\abstract1\abstract1\obj\Debug\abstract1.csproj.AssemblyReference.cache
+D:\c#\day 9\abstract1\abstract1\obj\Debug\abstract1.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 9\abstract1\abstract1\obj\Debug\abstract1.csproj.CoreCompileInputs.cache
+D:\c#\day 9\abstract1\abstract1\obj\Debug\abstract1.exe
+D:\c#\day 9\abstract1\abstract1\obj\Debug\abstract1.pdb

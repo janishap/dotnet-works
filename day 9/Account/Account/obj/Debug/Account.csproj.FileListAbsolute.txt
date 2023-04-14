@@ -1,0 +1,16 @@
+D:\c#\day 5\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\c#\day 5\Account\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 5\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\c#\day 5\Account\Account\bin\Debug\Account.exe.config
+D:\c#\day 5\Account\Account\bin\Debug\Account.exe
+D:\c#\day 5\Account\Account\bin\Debug\Account.pdb
+D:\c#\day 5\Account\Account\obj\Debug\Account.exe
+D:\c#\day 5\Account\Account\obj\Debug\Account.pdb
+D:\c#\day 6\Account\Account\bin\Debug\Account.exe.config
+D:\c#\day 6\Account\Account\bin\Debug\Account.exe
+D:\c#\day 6\Account\Account\bin\Debug\Account.pdb
+D:\c#\day 6\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\c#\day 6\Account\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 6\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\c#\day 6\Account\Account\obj\Debug\Account.exe
+D:\c#\day 6\Account\Account\obj\Debug\Account.pdb
