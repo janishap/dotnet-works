@@ -1,0 +1,8 @@
+D:\c#\day 3\string prgrm\string prgrm\bin\Debug\string prgrm.exe.config
+D:\c#\day 3\string prgrm\string prgrm\bin\Debug\string prgrm.exe
+D:\c#\day 3\string prgrm\string prgrm\bin\Debug\string prgrm.pdb
+D:\c#\day 3\string prgrm\string prgrm\obj\Debug\string prgrm.csproj.AssemblyReference.cache
+D:\c#\day 3\string prgrm\string prgrm\obj\Debug\string prgrm.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 3\string prgrm\string prgrm\obj\Debug\string prgrm.csproj.CoreCompileInputs.cache
+D:\c#\day 3\string prgrm\string prgrm\obj\Debug\string prgrm.exe
+D:\c#\day 3\string prgrm\string prgrm\obj\Debug\string prgrm.pdb

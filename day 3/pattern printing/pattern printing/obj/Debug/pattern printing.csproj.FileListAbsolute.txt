@@ -1,0 +1,8 @@
+D:\c#\day 3\pattern printing\pattern printing\bin\Debug\pattern printing.exe.config
+D:\c#\day 3\pattern printing\pattern printing\bin\Debug\pattern printing.exe
+D:\c#\day 3\pattern printing\pattern printing\bin\Debug\pattern printing.pdb
+D:\c#\day 3\pattern printing\pattern printing\obj\Debug\pattern printing.csproj.AssemblyReference.cache
+D:\c#\day 3\pattern printing\pattern printing\obj\Debug\pattern printing.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 3\pattern printing\pattern printing\obj\Debug\pattern printing.csproj.CoreCompileInputs.cache
+D:\c#\day 3\pattern printing\pattern printing\obj\Debug\pattern printing.exe
+D:\c#\day 3\pattern printing\pattern printing\obj\Debug\pattern printing.pdb

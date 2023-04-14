@@ -1,0 +1,8 @@
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\obj\Debug\Assignment day 3 oops.csproj.AssemblyReference.cache
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\obj\Debug\Assignment day 3 oops.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\obj\Debug\Assignment day 3 oops.csproj.CoreCompileInputs.cache
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\bin\Debug\Assignment day 3 oops.exe.config
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\bin\Debug\Assignment day 3 oops.exe
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\bin\Debug\Assignment day 3 oops.pdb
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\obj\Debug\Assignment day 3 oops.exe
+D:\c#\day 2\Assignment day 3 oops\Assignment day 3 oops\obj\Debug\Assignment day 3 oops.pdb
