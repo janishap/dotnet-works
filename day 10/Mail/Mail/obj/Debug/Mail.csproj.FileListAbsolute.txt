@@ -1,0 +1,16 @@
+D:\c#\day 9\Mail\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+D:\c#\day 9\Mail\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 9\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\c#\day 9\Mail\Mail\bin\Debug\Mail.exe.config
+D:\c#\day 9\Mail\Mail\bin\Debug\Mail.exe
+D:\c#\day 9\Mail\Mail\bin\Debug\Mail.pdb
+D:\c#\day 9\Mail\Mail\obj\Debug\Mail.exe
+D:\c#\day 9\Mail\Mail\obj\Debug\Mail.pdb
+D:\c#\day 10\Mail\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+D:\c#\day 10\Mail\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 10\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\c#\day 10\Mail\Mail\obj\Debug\Mail.exe
+D:\c#\day 10\Mail\Mail\obj\Debug\Mail.pdb
+D:\c#\day 10\Mail\Mail\bin\Debug\Mail.exe.config
+D:\c#\day 10\Mail\Mail\bin\Debug\Mail.exe
+D:\c#\day 10\Mail\Mail\bin\Debug\Mail.pdb
