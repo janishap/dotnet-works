@@ -1,0 +1,8 @@
+D:\c#\day 11\Car pooling prgrm\Requirement 5\obj\Debug\Requirement 5.csproj.AssemblyReference.cache
+D:\c#\day 11\Car pooling prgrm\Requirement 5\obj\Debug\Requirement 5.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 11\Car pooling prgrm\Requirement 5\obj\Debug\Requirement 5.csproj.CoreCompileInputs.cache
+D:\c#\day 11\Car pooling prgrm\Requirement 5\bin\Debug\Requirement 5.exe.config
+D:\c#\day 11\Car pooling prgrm\Requirement 5\bin\Debug\Requirement 5.exe
+D:\c#\day 11\Car pooling prgrm\Requirement 5\bin\Debug\Requirement 5.pdb
+D:\c#\day 11\Car pooling prgrm\Requirement 5\obj\Debug\Requirement 5.exe
+D:\c#\day 11\Car pooling prgrm\Requirement 5\obj\Debug\Requirement 5.pdb

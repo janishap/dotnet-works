@@ -1,0 +1,8 @@
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\obj\Debug\requiremnet 4.csproj.AssemblyReference.cache
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\obj\Debug\requiremnet 4.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\obj\Debug\requiremnet 4.csproj.CoreCompileInputs.cache
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\bin\Debug\requiremnet 4.exe.config
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\bin\Debug\requiremnet 4.exe
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\bin\Debug\requiremnet 4.pdb
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\obj\Debug\requiremnet 4.exe
+D:\c#\day 11\Car pooling prgrm\requiremnet 4\obj\Debug\requiremnet 4.pdb

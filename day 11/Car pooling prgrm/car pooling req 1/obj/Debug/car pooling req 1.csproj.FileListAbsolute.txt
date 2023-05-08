@@ -1,0 +1,8 @@
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\bin\Debug\car pooling req 1.exe.config
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\bin\Debug\car pooling req 1.exe
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\bin\Debug\car pooling req 1.pdb
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\obj\Debug\car pooling req 1.csproj.AssemblyReference.cache
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\obj\Debug\car pooling req 1.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\obj\Debug\car pooling req 1.csproj.CoreCompileInputs.cache
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\obj\Debug\car pooling req 1.exe
+D:\c#\day 11\Car pooling prgrm\car pooling req 1\obj\Debug\car pooling req 1.pdb
