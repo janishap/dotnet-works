@@ -1,0 +1,8 @@
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\bin\Debug\directoryinfo.exe.config
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\bin\Debug\directoryinfo.exe
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\bin\Debug\directoryinfo.pdb
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\obj\Debug\directoryinfo.csproj.AssemblyReference.cache
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\obj\Debug\directoryinfo.csproj.SuggestedBindingRedirects.cache
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\obj\Debug\directoryinfo.csproj.CoreCompileInputs.cache
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\obj\Debug\directoryinfo.exe
+D:\c#\day12\filedemo\directoryinfo\directoryinfo\obj\Debug\directoryinfo.pdb

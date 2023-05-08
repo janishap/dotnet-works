@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryctach2", "tryctach2\tryctach2.csproj", "{D635DDEC-C24D-463C-AD9A-BB57337AB13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D635DDEC-C24D-463C-AD9A-BB57337AB13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D635DDEC-C24D-463C-AD9A-BB57337AB13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D635DDEC-C24D-463C-AD9A-BB57337AB13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D635DDEC-C24D-463C-AD9A-BB57337AB13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A1338A-28F8-410A-BE28-A3424BA7D519}
+	EndGlobalSection
+EndGlobal

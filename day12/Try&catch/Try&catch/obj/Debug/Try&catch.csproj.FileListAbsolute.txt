@@ -1,0 +1,8 @@
+D:\c#\day12\Try&catch\Try&catch\bin\Debug\Try&catch.exe.config
+D:\c#\day12\Try&catch\Try&catch\bin\Debug\Try&catch.exe
+D:\c#\day12\Try&catch\Try&catch\bin\Debug\Try&catch.pdb
+D:\c#\day12\Try&catch\Try&catch\obj\Debug\Try&catch.csproj.AssemblyReference.cache
+D:\c#\day12\Try&catch\Try&catch\obj\Debug\Try&catch.csproj.SuggestedBindingRedirects.cache
+D:\c#\day12\Try&catch\Try&catch\obj\Debug\Try&catch.csproj.CoreCompileInputs.cache
+D:\c#\day12\Try&catch\Try&catch\obj\Debug\Try&catch.exe
+D:\c#\day12\Try&catch\Try&catch\obj\Debug\Try&catch.pdb

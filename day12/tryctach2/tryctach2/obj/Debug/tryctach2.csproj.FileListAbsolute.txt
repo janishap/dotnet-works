@@ -1,0 +1,8 @@
+D:\c#\day12\tryctach2\tryctach2\bin\Debug\tryctach2.exe.config
+D:\c#\day12\tryctach2\tryctach2\bin\Debug\tryctach2.exe
+D:\c#\day12\tryctach2\tryctach2\bin\Debug\tryctach2.pdb
+D:\c#\day12\tryctach2\tryctach2\obj\Debug\tryctach2.csproj.AssemblyReference.cache
+D:\c#\day12\tryctach2\tryctach2\obj\Debug\tryctach2.csproj.SuggestedBindingRedirects.cache
+D:\c#\day12\tryctach2\tryctach2\obj\Debug\tryctach2.csproj.CoreCompileInputs.cache
+D:\c#\day12\tryctach2\tryctach2\obj\Debug\tryctach2.exe
+D:\c#\day12\tryctach2\tryctach2\obj\Debug\tryctach2.pdb

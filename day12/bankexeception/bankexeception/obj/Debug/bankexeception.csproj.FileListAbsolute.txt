@@ -1,0 +1,8 @@
+D:\c#\day12\bankexeception\bankexeception\bin\Debug\bankexeception.exe.config
+D:\c#\day12\bankexeception\bankexeception\bin\Debug\bankexeception.exe
+D:\c#\day12\bankexeception\bankexeception\bin\Debug\bankexeception.pdb
+D:\c#\day12\bankexeception\bankexeception\obj\Debug\bankexeception.csproj.AssemblyReference.cache
+D:\c#\day12\bankexeception\bankexeception\obj\Debug\bankexeception.csproj.SuggestedBindingRedirects.cache
+D:\c#\day12\bankexeception\bankexeception\obj\Debug\bankexeception.csproj.CoreCompileInputs.cache
+D:\c#\day12\bankexeception\bankexeception\obj\Debug\bankexeception.exe
+D:\c#\day12\bankexeception\bankexeception\obj\Debug\bankexeception.pdb
