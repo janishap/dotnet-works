@@ -1,0 +1,8 @@
+D:\c#\day 16\missing number\missing number\obj\Debug\missing number.csproj.AssemblyReference.cache
+D:\c#\day 16\missing number\missing number\obj\Debug\missing number.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 16\missing number\missing number\obj\Debug\missing number.csproj.CoreCompileInputs.cache
+D:\c#\day 16\missing number\missing number\bin\Debug\missing number.exe.config
+D:\c#\day 16\missing number\missing number\bin\Debug\missing number.exe
+D:\c#\day 16\missing number\missing number\bin\Debug\missing number.pdb
+D:\c#\day 16\missing number\missing number\obj\Debug\missing number.exe
+D:\c#\day 16\missing number\missing number\obj\Debug\missing number.pdb

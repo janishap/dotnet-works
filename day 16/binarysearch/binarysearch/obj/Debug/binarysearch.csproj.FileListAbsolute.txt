@@ -1,0 +1,8 @@
+D:\c#\day 16\binarysearch\binarysearch\bin\Debug\binarysearch.exe.config
+D:\c#\day 16\binarysearch\binarysearch\bin\Debug\binarysearch.exe
+D:\c#\day 16\binarysearch\binarysearch\bin\Debug\binarysearch.pdb
+D:\c#\day 16\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.AssemblyReference.cache
+D:\c#\day 16\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 16\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.CoreCompileInputs.cache
+D:\c#\day 16\binarysearch\binarysearch\obj\Debug\binarysearch.exe
+D:\c#\day 16\binarysearch\binarysearch\obj\Debug\binarysearch.pdb

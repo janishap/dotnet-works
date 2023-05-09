@@ -1,0 +1,8 @@
+D:\c#\day 16\sort0s1s\sort0s1s\bin\Debug\sort0s1s.exe.config
+D:\c#\day 16\sort0s1s\sort0s1s\bin\Debug\sort0s1s.exe
+D:\c#\day 16\sort0s1s\sort0s1s\bin\Debug\sort0s1s.pdb
+D:\c#\day 16\sort0s1s\sort0s1s\obj\Debug\sort0s1s.csproj.AssemblyReference.cache
+D:\c#\day 16\sort0s1s\sort0s1s\obj\Debug\sort0s1s.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 16\sort0s1s\sort0s1s\obj\Debug\sort0s1s.csproj.CoreCompileInputs.cache
+D:\c#\day 16\sort0s1s\sort0s1s\obj\Debug\sort0s1s.exe
+D:\c#\day 16\sort0s1s\sort0s1s\obj\Debug\sort0s1s.pdb
