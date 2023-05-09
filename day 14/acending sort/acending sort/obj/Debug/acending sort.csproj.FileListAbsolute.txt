@@ -1,0 +1,8 @@
+D:\c#\day 16\acending sort\acending sort\bin\Debug\acending sort.exe.config
+D:\c#\day 16\acending sort\acending sort\bin\Debug\acending sort.exe
+D:\c#\day 16\acending sort\acending sort\bin\Debug\acending sort.pdb
+D:\c#\day 16\acending sort\acending sort\obj\Debug\acending sort.csproj.AssemblyReference.cache
+D:\c#\day 16\acending sort\acending sort\obj\Debug\acending sort.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 16\acending sort\acending sort\obj\Debug\acending sort.csproj.CoreCompileInputs.cache
+D:\c#\day 16\acending sort\acending sort\obj\Debug\acending sort.exe
+D:\c#\day 16\acending sort\acending sort\obj\Debug\acending sort.pdb
