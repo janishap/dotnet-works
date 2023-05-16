@@ -1,0 +1,8 @@
+D:\c#\day 22\query Linq\query Linq\bin\Debug\query Linq.exe.config
+D:\c#\day 22\query Linq\query Linq\bin\Debug\query Linq.exe
+D:\c#\day 22\query Linq\query Linq\bin\Debug\query Linq.pdb
+D:\c#\day 22\query Linq\query Linq\obj\Debug\query Linq.csproj.AssemblyReference.cache
+D:\c#\day 22\query Linq\query Linq\obj\Debug\query Linq.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 22\query Linq\query Linq\obj\Debug\query Linq.csproj.CoreCompileInputs.cache
+D:\c#\day 22\query Linq\query Linq\obj\Debug\query Linq.exe
+D:\c#\day 22\query Linq\query Linq\obj\Debug\query Linq.pdb

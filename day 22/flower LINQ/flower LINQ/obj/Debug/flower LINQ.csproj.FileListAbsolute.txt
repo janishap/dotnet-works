@@ -1,0 +1,8 @@
+D:\c#\day 22\flower LINQ\flower LINQ\bin\Debug\flower LINQ.exe.config
+D:\c#\day 22\flower LINQ\flower LINQ\bin\Debug\flower LINQ.exe
+D:\c#\day 22\flower LINQ\flower LINQ\bin\Debug\flower LINQ.pdb
+D:\c#\day 22\flower LINQ\flower LINQ\obj\Debug\flower LINQ.csproj.AssemblyReference.cache
+D:\c#\day 22\flower LINQ\flower LINQ\obj\Debug\flower LINQ.csproj.SuggestedBindingRedirects.cache
+D:\c#\day 22\flower LINQ\flower LINQ\obj\Debug\flower LINQ.csproj.CoreCompileInputs.cache
+D:\c#\day 22\flower LINQ\flower LINQ\obj\Debug\flower LINQ.exe
+D:\c#\day 22\flower LINQ\flower LINQ\obj\Debug\flower LINQ.pdb
