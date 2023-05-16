@@ -1,0 +1,103 @@
+
+GIT - GLOBAL INFORMATION TRACKER
+
+
+Git is a version control system that helps developers keep track of changes made to their code over time. It allows you to keep a history of every change made to your codebase, and provides a way to collaborate with other developers on a project.
+
+Here's an example to help illustrate how Git works:
+
+Suppose you are working on a project with a team of developers. You all have copies of the project's code on your local machines, and you are all making changes to the codebase. Without version control, it can be difficult to keep track of who made what changes, and when. It can also be challenging to collaborate with others, especially if you are working on the same files at the same time.
+
+With Git, however, you can solve these problems. Each developer has their own local copy of the code, but they also have access to a central repository that is hosted on a service like GitHub. When a developer makes changes to their local copy of the code, they can then commit those changes to the central repository. This creates a new version of the codebase that includes the changes they made.
+
+Other developers can then pull these changes from the central repository to their own local copies of the code. This ensures that everyone is working with the latest version of the code, and that everyone is aware of the changes that have been made.
+
+Git also provides a number of other features that make it easier to manage your codebase, such as branching and merging. Branching allows you to create a separate copy of the codebase that you can work on independently from the main codebase. This can be useful for experimenting with new features or making changes that you don't want to commit to the main codebase yet. Merging allows you to combine two or more branches of the codebase into a single version, which can be helpful when multiple developers are working on different parts of the codebase.
+
+Overall, Git is a powerful tool that helps developers manage their code and collaborate effectively. It allows you to keep track of changes made to your codebase over time, and provides a way to work with others on a project without causing conflicts or confusion.
+
+
+
+GITHUB
+
+
+GitHub is a web-based platform that provides a place for software developers to store and manage their code, collaborate with other developers, and track changes to their code over time. It is built on top of the Git version control system, which is a tool that helps developers keep track of changes to their codebase over time.
+
+Here's an example to help you understand how GitHub works:
+
+Suppose you are working on a project with a team of developers. You are all working on different parts of the project, and you need a way to share your code and collaborate with each other. You could use email to send code back and forth, but this quickly becomes cumbersome and difficult to manage.
+
+Instead, you could use GitHub to manage your project. You would create a repository on GitHub, which is essentially a folder for your project's code. Each developer would then clone this repository to their local machine, which creates a local copy of the code that they can work on.
+
+As each developer makes changes to the code, they can push those changes back to the repository on GitHub. This allows everyone to see what changes have been made and to collaborate more effectively.
+
+GitHub also provides a number of other features to help developers manage their code, such as issue tracking, pull requests, and code reviews. These features make it easier for developers to work together and to ensure that the codebase is always in a good state.
+
+Overall, GitHub is a powerful tool for software developers that makes it easier to collaborate and manage code projects.
+
+
+GITHUB COMMANDS
+
+
+
+1. `git clone`: This command is used to make a copy of a repository that is hosted on GitHub. You can use this command to download the entire repository, including all of its branches, commits, and files. Here's an example:
+
+   ```
+   git clone https://github.com/username/repository.git
+   ```
+
+   In this command, replace `username` with the username of the owner of the repository and `repository` with the name of the repository you want to clone.
+
+2. `git add`: This command is used to stage changes that you've made to your local copy of the repository so that you can commit them later. Here's an example:
+
+   ```
+   git add file1.txt file2.txt
+   ```
+
+   This command stages the changes made to `file1.txt` and `file2.txt`.
+
+3. `git commit`: This command is used to record changes to the repository. When you run this command, you must provide a commit message that describes the changes you've made. Here's an example:
+
+   ```
+   git commit -m "Added new feature"
+   ```
+
+   This command creates a new commit with the message "Added new feature".
+
+4. `git push`: This command is used to upload your changes to the repository on GitHub. Here's an example:
+
+   ```
+   git push origin master
+   ```
+
+   This command pushes your changes to the `master` branch of the repository on GitHub.
+
+5. `git pull`: This command is used to download changes that have been made to the repository on GitHub since you last cloned or pulled it. Here's an example:
+
+   ```
+   git pull origin master
+   ```
+
+   This command downloads any changes that have been made to the `master` branch of the repository on GitHub.
+
+6. `git branch`: This command is used to create, list, or delete branches. Here are some examples:
+
+   ```
+   git branch
+   ```
+
+   This command lists all of the branches in the repository.
+
+   ```
+   git branch new-branch
+   ```
+
+   This command creates a new branch called `new-branch`.
+
+   ```
+   git branch -d old-branch
+   ```
+
+   This command deletes the branch called `old-branch`.
+
+These are just a few examples of the many commands available in GitHub. By using these commands, you can manage your repository and collaborate with others effectively.
