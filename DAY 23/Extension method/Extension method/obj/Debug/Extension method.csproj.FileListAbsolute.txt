@@ -1,0 +1,8 @@
+D:\c#\DAY 23\Extension method\Extension method\bin\Debug\Extension method.exe.config
+D:\c#\DAY 23\Extension method\Extension method\bin\Debug\Extension method.exe
+D:\c#\DAY 23\Extension method\Extension method\bin\Debug\Extension method.pdb
+D:\c#\DAY 23\Extension method\Extension method\obj\Debug\Extension method.csproj.AssemblyReference.cache
+D:\c#\DAY 23\Extension method\Extension method\obj\Debug\Extension method.csproj.SuggestedBindingRedirects.cache
+D:\c#\DAY 23\Extension method\Extension method\obj\Debug\Extension method.csproj.CoreCompileInputs.cache
+D:\c#\DAY 23\Extension method\Extension method\obj\Debug\Extension method.exe
+D:\c#\DAY 23\Extension method\Extension method\obj\Debug\Extension method.pdb

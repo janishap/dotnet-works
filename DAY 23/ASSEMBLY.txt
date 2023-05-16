@@ -1,0 +1,43 @@
+ASSEMBLY
+
+
+In .NET, an assembly is a collection of code files and related resources that are compiled together into a single unit of deployment.
+ It can be thought of as a packaged set of code that can be used by other applications or assemblies.
+
+For example, if you create a C# program and compile it, you will get an assembly file with the extension .exe or .dll. 
+This assembly file contains the compiled code, along with other information such as metadata about the code, version information, and security permissions.
+
+
+Types of assemblies:
+
+
+
+a. Private Assemblies: are accessible by a single application. They reside within the application folder and are unique by name. They can be directly used by copying and pasting them to the bin folder.
+
+
+
+b. Shared Assemblies: are shared between multiple applications to ensure reusability. They are placed in GAC.
+
+
+
+c. Satellite Assemblies: are the assemblies to provide the support for multiple languages based on different cultures. These are kept in different modules based on the different categories available.
+
+
+
+
+EFFECT OF ASSEMBLY
+
+One effect of using assemblies is that they provide a level of abstraction and encapsulation that helps to manage complexity and reduce code duplication.
+ Assemblies can be versioned, signed with strong names, and deployed to the Global Assembly Cache (GAC) for shared use across multiple applications.
+
+
+RELATION B/W C# AND ASSEMBLY
+
+C# is a programming language that is commonly used to create .NET applications, and the C# compiler produces assemblies as output. When you write C# code and compile it, the resulting assembly can be used b other .NET languages like VB.NET and F#, as well as by applications written in other programming languages.
+In addition to containing code, assemblies can also include resources such as images, sound files, and configuration files.
+ These resources can be accessed using the .NET framework's resource management featuresAssemblies can be loaded into memory dynamically at runtime, allowing for dynamic loading and unloading of code modules. 
+This can be useful for creating plugins and extensible applications.
+
+In summary, assemblies are an important concept in .NET that provide a way to package and deploy code and related resources.
+ C# is one of the languages that can be used to create assemblies, and assemblies can be used by other .
+NET languages and applications. Assemblies provide encapsulation, versioning, and deployment features that help to manage complexity and enable code reuse.
