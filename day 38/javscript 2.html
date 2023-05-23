@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            var num1,num2,a;
+            function operations()
+            {
+
+                num1=Number(document.getElementById("number1").value);
+                num2=Number(document.getElementById("number2").value);
+                var ar = document.getElementById("arithmatic").value;
+                var a=document.getElementById("result");
+                a.innerHTML = ar;
+                   // a.innerHTML = num1 +num2 +"<br/>";
+                
+                 switch(ar)
+                 {
+                    case "addition":
+                    
+                    //var a=document.getElementById("result");
+                    a.innerHTML = num1 + num2 +"<br/>";
+                       // a = num1+num2;
+                    
+                    break;
+
+                    case "subtraction":
+                   // var a=document.getElementById("result");
+                    a.innerHTML = num1 - num2 +"<br/>";
+                    //a = num1-num2;
+                    break;
+
+                    case "Multiplication":
+                    //var a=document.getElementById("result");
+                    a.innerHTML = num1 * num2 +"<br/>";
+                        //a = num1*num2;
+                    break;
+
+                    case "Division":
+                    //var a=document.getElementById("result");
+                    a.innerHTML = num1 / num2 +"<br/>";
+                        //a = num1/num2;
+                        break;
+
+                 }
+                
+                 
+            }
+            //a=document.getElementById("result").innerHTML;
+
+
+
+        </script>
+
+    </head>
+    <body>
+        <p>Enter two numbers</p>
+       <p> <input type="number" id="number1" value="Number 1" placeholder="Enter number 1"/></p>
+        <p><input type="number" id="number2" value ="Number2" placeholder="Enter number 2"/></p>
+
+        <label for="arithmatic">select the choice</label>
+        <select id = "arithmatic">
+            
+            <option value="addition">Addition</option>
+            <option value="subtraction">subraction</option>
+            <option value="Division">Division</option>
+            <option value="Multiplication">Multiplication</option>
+
+        </select>
+        
+        <p> <input type ="submit" value="result" onclick="operations();"/></p>
+        <p id="result"></p>
+
+
+    </body>
+</html>
