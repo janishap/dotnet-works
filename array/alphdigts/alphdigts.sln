@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alphdigts", "alphdigts\alphdigts.csproj", "{F7B394A0-987D-481F-8506-9DE8F09A3D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B394A0-987D-481F-8506-9DE8F09A3D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B394A0-987D-481F-8506-9DE8F09A3D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B394A0-987D-481F-8506-9DE8F09A3D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B394A0-987D-481F-8506-9DE8F09A3D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA2C612-D948-4CC7-9B4C-FC048AC694EE}
+	EndGlobalSection
+EndGlobal
